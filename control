@@ -1,0 +1,9 @@
+Package: com.expetelek.scramblepass
+Name: ScramblePass
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A tweak which scrambles and rearranges the passcode digits on the lockscreen each time your device is unlocked. This improves security by making it impossible for someone to memorize the pattern of your device's passcode.
+Maintainer: Stevie Hetelekides
+Author: Stevie Hetelekides
+Section: Tweaks

@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = ScramblePassPreferences;
+	cell = PSLinkCell;
+	detail = ScramblePassPreferencesListController;
+	icon = ScramblePassPreferences.png;
+	isController = 1;
+	label = ScramblePass;
+    };
+}
